@@ -1,0 +1,53 @@
+body {
+  background-color: #FCF7F8;
+  font-family: 'overpass', sans-serif; }
+  body .target {
+    font-weight: 700;
+    height: 40%;
+    width: 100%;
+    background-color: #397521;
+    color: white;
+    display: inline-block;
+    padding: 2% 2%;
+    font-size: 1.5em; }
+  body .searchwrap {
+    background-color: #fbfbc4;
+    width: 100%;
+    padding: 5% 2%; }
+    body .searchwrap .searchbar {
+      width: 80%; }
+  body .exampletext {
+    width: 100%;
+    color: #cecece;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 2% 0 0 0; }
+  body .item {
+    margin: 2% 2.5%;
+    background-color: white;
+    width: 90%;
+    padding: 2% 2%;
+    border: solid 2px #dbdbdb;
+    color: #162e0d;
+    font-family: sans-serif; }
+    body .item .desc {
+      background-color: white; }
+  body .button {
+    background-color: #12c6c9;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    padding: 2% 0;
+    text-align: center;
+    color: white; }
+  body .button2 {
+    background-color: #8bc34a;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding: 2% 0;
+    margin: 0 0 0 50%;
+    text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
